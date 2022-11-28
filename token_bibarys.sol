@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
-//https://github.com/Assilbek7/TBlab7
+//https://github.com/bibarysss/laba7
 interface IERC20 {
     function totalSupply() external view returns (uint);
     function balanceOf(address account) external view returns (uint);
